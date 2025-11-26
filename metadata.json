@@ -1,0 +1,9 @@
+{
+  "name": " Atom AI",
+  "description": "Your intelligent, multimodal study companion for web, tablet, and mobile. Features vision analysis, document help, and voice interaction.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
